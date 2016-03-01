@@ -1,2 +1,0 @@
-# GNUforBroadcast
-GNU for Broadcast
